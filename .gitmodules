@@ -1,0 +1,6 @@
+[submodule "StarWarsFacilityBackEnd"]
+	path = StarWarsFacilityBackEnd
+	url = https://github.com/Patrik-07/StarWarsFacilityBackEnd.git
+[submodule "StarWarsFacilityFrontEnd"]
+	path = StarWarsFacilityFrontEnd
+	url = https://github.com/Patrik-07/StarWarsFacilityFrontEnd.git
